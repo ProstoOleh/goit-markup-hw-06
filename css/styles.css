@@ -217,7 +217,7 @@ img {
     transition: transform 250ms ease-in-out; 
 }
 
-.is-hidden { 
+ .mob-menu.is-hidden { 
     transform: translateX(100%);
 } 
 
